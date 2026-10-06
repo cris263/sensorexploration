@@ -22,7 +22,7 @@ a{color:var(--blue)}
 .wrap{max-width:var(--max);margin:0 auto;padding:0 1.5rem}
 h1,h2,h3{font-family:var(--f-head);color:var(--navy);line-height:1.12;letter-spacing:-.01em}
 h1{font-size:clamp(2.3rem,5.5vw,4rem);font-weight:800}
-h2{font-size:clamp(1.9rem,3.8vw,2.7rem);font-weight:700;margin-bottom:1rem}
+h2{font-size:clamp(1.7rem,3.4vw,2.4rem);font-weight:700;margin-bottom:1rem}
 h3{font-size:1.2rem;font-weight:700;margin-bottom:.4rem}
 p{max-width:62ch}
 
@@ -55,7 +55,7 @@ p{max-width:62ch}
 /* Secciones */
 .section{padding:5rem 0}
 .section.alt{background:var(--paper)}
-.intro{display:grid;grid-template-columns:0.95fr 1.3fr;gap:2.5rem;align-items:center}
+.intro{display:grid;grid-template-columns:0.9fr 1.4fr;gap:2rem;align-items:center}
 .intro h2{margin-left:1rem}
 .grid{display:grid;gap:1.5rem}
 .g2{grid-template-columns:repeat(2,1fr)}
